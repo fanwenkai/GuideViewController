@@ -1,8 +1,10 @@
 # GuideViewController
-引导页功能，测试环境 ，xcode7.2 ios9
+
+引导页功能，测试环境 ，XCode7.2 IOS9
 
 用法：
- BOOL canShow = [GuideViewController canShowNewFeature];
+
+    BOOL canShow = [GuideViewController canShowNewFeature];
     //测试用
     canShow = YES;
     if (canShow) {
